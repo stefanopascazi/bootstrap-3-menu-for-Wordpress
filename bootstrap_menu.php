@@ -74,3 +74,4 @@ function create_bootstrap_menu( $theme_location ) {
 	
 	echo $menu_list;
 }
+?>
